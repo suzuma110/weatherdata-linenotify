@@ -18,4 +18,4 @@ Seleniumを使い、Tenki.jpから天気、気温、降水確率、雨雲レー�
 # Note
 
 https://notify-bot.line.me/ja/
-<br>実行にはLINE NotifyのAPI keyが必要になります。
+<br>実行にはLINE Notifyのトークンが必要になります。
